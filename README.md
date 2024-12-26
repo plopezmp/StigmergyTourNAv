@@ -44,8 +44,8 @@ of N, S, E, W each $525$ m from location point $51.05660$ N, $3.721500$ E.
   <p><b>Figure 2:</b> Simulation map (Ghent, Belgium).</p>
 </div>
 
-represents a map with walk-roads and building footprint of this area, obtained with the OSMnx \cite{Boeing:2016aa} Python module.
+represents a map with walk-roads and building footprint of this area, obtained with the OSMnx [2] Python module.
 
 ## References
-[1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [Link](https://ccl.northwestern.edu/netlogo/)
-[2]: G.Boeing,``OSMnx:New methods for acquiring,constructing, analyzing, and visualizing complex street networks'', *Computers, Environment and Urban Systems*, vol. 65, pp. 126–139, 2017.
+[1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
+[2]: G.Boeing,''OSMnx:New methods for acquiring,constructing, analyzing, and visualizing complex street networks'', *Computers, Environment and Urban Systems*, vol. 65, pp. 126–139, 2017. [https://osmnx.readthedocs.io/en/stable/](https://osmnx.readthedocs.io/en/stable/)

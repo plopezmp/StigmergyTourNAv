@@ -7,7 +7,7 @@ The goal of this work is to study stigmergy as a way to collectively help touris
 Stigmergy is the type of communication used used by some spieces of insects, e.g. ants, for foraging purposes. The insect liberates chemicals denominated *pheromones* that other individuals can sense. Stigmergy can be applied  to solve complex problems in real world scenarios, such as tourist routing.
 
 
-<div align="center" style="margin-top: 35px; margin-bottom: 20px;">
+<div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
   <img src="figs/PLMado.jpg" width="750">
   <p><b>Figure 1:</b> System overview.</p>
 </div>

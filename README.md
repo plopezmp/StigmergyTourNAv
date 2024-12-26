@@ -48,4 +48,5 @@ represents a map with walk-roads and building footprint of this area, obtained w
 
 ## References
 [1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [https://ccl.northwestern.edu/netlogo/](https://ccl.northwestern.edu/netlogo/)
+
 [2]: G.Boeing,''OSMnx:New methods for acquiring,constructing, analyzing, and visualizing complex street networks'', *Computers, Environment and Urban Systems*, vol. 65, pp. 126–139, 2017. [https://osmnx.readthedocs.io/en/stable/](https://osmnx.readthedocs.io/en/stable/)

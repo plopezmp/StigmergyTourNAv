@@ -6,8 +6,9 @@ Pablo López-Matencio, Javier Vales-Alonso, and Enrique Costa-Montenegro, “ANT
 The goal of this work is to study stigmergy as a way to collectively help tourists to discover points of interests, POIs, and find routes to those sites.
 Stigmergy is the type of communication used used by some spieces of insects, e.g. ants, for foraging purposes. The insect liberates chemicals denominated *pheromones* that other individuals can sense. Stigmergy can be applied  to solve complex problems in real world scenarios, such as tourist routing.
 
-
+<br><br>
 <div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
   <img src="figs/PLMado.jpg" width="750">
   <p><b>Figure 1:</b> System overview.</p>
 </div>
+<br><br>

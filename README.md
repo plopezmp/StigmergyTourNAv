@@ -40,7 +40,7 @@ For our purposes, we used a \emph{squared} area
 of N, S, E, W each $525$ m from location point $51.05660$ N, $3.721500$ E. 
 
 <div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
-  <img src="figs/gante.png" width="750">
+  <img src="figs/gante.png" width="350">
   <p><b>Figure 2:</b> Ghent street map.</p>
 </div>
 

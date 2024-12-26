@@ -1,1 +1,1 @@
-# StigmergyTourNav
+# Stigmergy-Based tourist navigation system

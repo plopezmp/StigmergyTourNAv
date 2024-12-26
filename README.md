@@ -8,7 +8,7 @@ Stigmergy is the type of communication used used by some spieces of insects, e.g
 
 <br><br>
 <div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
-  <img src="figs/PLMado.jpg" width="750">
+  <img src="figs/PLMado.png" width="750">
   <p><b>Figure 1:</b> System overview.</p>
 </div>
 <br><br>

@@ -35,8 +35,8 @@ Pheromone mapping determines a tourist's route based on different strategies wit
 7. The **ANT agent** uses the IPM to select routes, often leading to popular unvisited POIs.
 8. The system also records and submits path data during special events, allowing new POIs to be declared for temporary locations.
 
-## Simulations
-We have constructed a simulator with Netlogo [1] environment, which is particularly well suited for modeling complex systems (e.g., natural and social phenomena) developing over time. 
+## Simulator
+We have constructed a simulator with **Netlogo** [1] environment, which is particularly well suited for modeling complex systems (e.g., natural and social phenomena) developing over time. 
 
 The simulator file **gis-din-rank7.nlogo** above and can be opened with Netlogo. 
 
@@ -60,6 +60,10 @@ The simulator implements three routing ranking methodologies for the mobility of
 - Gradient Based (GB).
   
 They use pheromone deposited when other agents make a POI discovery to make mobility decisions probabilistically.
+
+## Example of use
+
+1. Open **Netlogo**
 
 ## References
 [1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [URL](https://ccl.northwestern.edu/netlogo/)

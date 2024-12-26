@@ -36,15 +36,16 @@ Netlogo can import ESRI shapefiles (.shp) vector files allowing the simulation o
 
 For our trials, we chose the town center of Ghent (Belgium).
 Ghent is a touristic place with many visiting sites, such as old buildings and museums, and, like many old towns has an entangled net of walk-roads, making it a suitable example due to its complexity.
-For our purposes, we used a \emph{squared} area 
+For our purposes, we used a *squared* area 
 of N, S, E, W each $525$ m from location point $51.05660$ N, $3.721500$ E. 
 
 <div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
   <img src="figs/gante.png" width="350">
-  <p><b>Figure 2:</b> Ghent street map.</p>
+  <p><b>Figure 2:</b> Simulation map (Ghent, Belgium).</p>
 </div>
 
 represents a map with walk-roads and building footprint of this area, obtained with the OSMnx \cite{Boeing:2016aa} Python module.
 
 ## References
 [1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [Link](https://ccl.northwestern.edu/netlogo/)
+[2]: G.Boeing,``OSMnx:New methods for acquiring,constructing, analyzing, and visualizing complex street networks'', *Computers, Environment and Urban Systems*, vol. 65, pp. 126–139, 2017.

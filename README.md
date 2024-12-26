@@ -5,7 +5,7 @@ This repository contains the materials used in the study
 Pablo López-Matencio, Javier Vales-Alonso, and Enrique Costa-Montenegro, “ANT: Agent Stigmergy-Based IoT-Network for Enhanced Tourist Mobility,” *Mobile Information Systems*, vol. 2017, Article ID 1328127, 15 pages, 2017. https://doi.org/10.1155/2017/1328127
 -->
 
-> **Pablo López-Matencio, Javier Vales-Alonso, and Enrique Costa-Montenegro**  
+> **Pablo López-Matencio, J. Vales-Alonso, and E. Costa-Montenegro**  
 > “ANT: Agent Stigmergy-Based IoT-Network for Enhanced Tourist Mobility,”  
 > *Mobile Information Systems*, vol. 2017, Article ID 1328127, 15 pages, 2017.  
 > [https://doi.org/10.1155/2017/1328127](https://doi.org/10.1155/2017/1328127)

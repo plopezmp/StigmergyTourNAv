@@ -9,12 +9,12 @@ Stigmergy is the type of communication used used by some spieces of insects, e.g
 
 ## Operation overview
 
-<br><br>
+<!-- <br><br> -->
 <div align="center" style="margin-top: 0.7cm; margin-bottom: 20px;">
   <img src="figs/PLMado.png" width="750">
   <p><b>Figure 1:</b> System overview.</p>
 </div>
-<br><br>
+<!-- <br><br> -->
 
 Pheromone mapping determines a tourist's route based on different strategies with the following rules:
 

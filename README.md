@@ -26,3 +26,9 @@ Pheromone mapping determines a tourist's route based on different strategies wit
 6. The server provides tourists with an **Individualized Pheromone Mapping (IPM)**, which is unique to each tourist and guides them towards unvisited POIs.
 7. The **ANT agent** uses the IPM to select routes, often leading to popular unvisited POIs.
 8. The system also records and submits path data during special events, allowing new POIs to be declared for temporary locations.
+
+## Simulations
+We have constructed a simulator with Netlogo [1] environment
+
+## References
+[1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [Link](https://ccl.northwestern.edu/netlogo/)

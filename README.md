@@ -46,6 +46,13 @@ of N, S, E, W each $525$ m from location point $51.05660$ N, $3.721500$ E.
 
 represents a map with walk-roads and building footprint of this area, obtained with the OSMnx [2] Python module.
 
+The simulator implements three routing ranking methodologies for the mobility of tourists: 
+- Fitness Proportionate Selection (FPS),
+- Rank Selection (RS) and
+- Gradient Based (GB).
+  
+They use pheromone deposited when other agents make a POI discovery to make mobility decisions probabilistically.
+
 ## References
 [1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [URL](https://ccl.northwestern.edu/netlogo/)
 

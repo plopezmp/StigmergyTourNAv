@@ -10,3 +10,7 @@ Stigmergy is the type of communication used used by some spieces of insects, e.g
 ![Alt text](PLMado.jpg)
 -->
 <img src='figs/PLMado.jpg' width='750'>
+
+<div align="center">
+  <img src="figs/PLMado.jpg" width="750">
+</div>

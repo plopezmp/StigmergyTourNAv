@@ -66,6 +66,7 @@ They use pheromone deposited when other agents make a POI discovery to make mobi
 1. clone this repository: 
 ```
 git clone https://github.com/plopezmp/StigmergyTourNav.git
+```
 1. Open **Netlogo**
 
 ## References

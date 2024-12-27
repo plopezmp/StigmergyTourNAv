@@ -70,7 +70,7 @@ git clone https://github.com/plopezmp/StigmergyTourNav.git
 2. Open **Netlogo** and load the simulator **gis-din-rank7.nlogo**.
 3. This video show how to start a simulation:
 
-   [Watch the video](video/video_example_use.mov)
+   [Watch the video](video/demo.mov)
 
 
 ## References

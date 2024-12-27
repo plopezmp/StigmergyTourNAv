@@ -72,7 +72,8 @@ git clone https://github.com/plopezmp/StigmergyTourNav.git
 
    
 
-<iframe width="750" height="422" src="[![Watch the video](figs/thumbnail.png)](https://www.dropbox.com/scl/fi/cieqvocrndllw06ob5t9n/demo.mov?rlkey=c8ldjdkzjnhq9p1bes04pyd6n&st=e4keldf5&dl=0)" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.dropbox.com/scl/fi/cieqvocrndllw06ob5t9n/demo.mov?rlkey=c8ldjdkzjnhq9p1bes04pyd6n&st=e4keldf5&dl=0" frameborder="0" allowfullscreen></iframe>
+
 
 
 

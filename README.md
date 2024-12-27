@@ -63,11 +63,15 @@ They use pheromone deposited when other agents make a POI discovery to make mobi
 
 ## Example of use
 
-1. clone this repository: 
+1. Clone this repository: 
 ```
 git clone https://github.com/plopezmp/StigmergyTourNav.git
 ```
-1. Open **Netlogo**
+2. Open **Netlogo** and load the simulator **gis-din-rank7.nlogo**.
+3. This video show how to start a simulation:
+
+   [Watch the video](video/video_example_use.mov)
+
 
 ## References
 [1]: U. Wilensky, *Netlogo. Center for Connected Learning and Computer-Based Modeling*, Northwestern University, Evanston, IL., USA, 1999. [URL](https://ccl.northwestern.edu/netlogo/)

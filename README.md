@@ -72,6 +72,10 @@ git clone https://github.com/plopezmp/StigmergyTourNav.git
 
    [![Watch the video](figs/thumbnail.png)](https://www.dropbox.com/scl/fi/cieqvocrndllw06ob5t9n/demo.mov?rlkey=c8ldjdkzjnhq9p1bes04pyd6n&st=e4keldf5&dl=0)
 
+<video width="750" controls>
+    <source src="video/demo.mov" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 
 ## References

@@ -38,7 +38,7 @@ Pheromone mapping determines a tourist's route based on different strategies wit
 ## Simulator
 We have constructed a simulator with **Netlogo** [1] environment, which is particularly well suited for modeling complex systems (e.g., natural and social phenomena) developing over time. 
 
-The simulator file **gis-din-rank7.nlogo** above and can be opened with Netlogo. 
+The simulator file **gis-cc13.nlogo** above and can be opened with Netlogo. 
 
 Netlogo can import ESRI shapefiles (.shp) vector files allowing the simulation of \emph{walker} agents over a map.
 
@@ -67,10 +67,11 @@ They use pheromone deposited when other agents make a POI discovery to make mobi
 ```
 git clone https://github.com/plopezmp/StigmergyTourNav.git
 ```
-2. Open **Netlogo** and load the simulator **gis-din-rank7.nlogo**.
+2. Open **Netlogo** and load the simulator **gis-cc13.nlogo**.
 3. This video show how to start a simulation:
 
-   [Watch the video](video/demo.mov)
+   [![Watch the video](figs/thumbnail.png)](video/demo.mov)
+
 
 
 ## References

@@ -1,0 +1,14 @@
+ESTATICO
+-POIs initial = 5
+-slow-dec-factor = 10%
+-popularity-per-step = 1
+-popularity-decay-rate = 1%
+
+DYNAMICO
+-POIs initial = 7
+-slow-dec-factor-e = 1% es la vel a la q decrece el tiempo por cada tick
+está relacionado con 
+-exp-media = 425 que es la media de la pdf exponencial del LIFETIME del evento dynamico
+-slow-dec-factor = 15% y es la vel a la que disminuye el 'interés' tras la visita.
+-popularity-per-step = 1
+-popularity-decay-rate = 2%
